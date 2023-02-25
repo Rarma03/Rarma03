@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rarma03
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Graphic Designing, Competitive Coding and Web-Dev
+- 🌱 I’m currently Exploring Front-end Web-Dev
 - 💞️ I’m looking to collaborate on every oppurtunites I get
 - 📫 Reaching me is to easy just contact me via email - 710vermaraj@gmail.com 
 
