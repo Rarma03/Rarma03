@@ -3,20 +3,15 @@ I’m Raj Verma, a passionate developer with a strong foundation in competitive 
 
 🌐 What I Do
 
-I specialize in full-stack web development and have developed a variety of projects ranging from academic resource portals to automated resume builders.
-
-I am skilled in data structures and algorithms and have solved over 1000+ coding problems across platforms like Leetcode, Codeforces, and Codechef.
-
-I also design intuitive and aesthetic user interfaces, bringing user-friendly experiences to life using tools like Figma, Canva, and Illustrator.
+- I specialize in full-stack web development and have developed a variety of projects ranging from academic resource portals to automated resume builders.
+- I am skilled in data structures and algorithms and have solved over 1000+ coding problems across platforms like Leetcode, Codeforces, and Codechef.
+- I also design intuitive and aesthetic user interfaces, bringing user-friendly experiences to life using tools like Figma, Canva, and Illustrator.
 
 🔧 Technical Skills
 
 Languages: C++, Python
-
 Web Technologies: HTML, CSS, JavaScript, React, Node.js, MongoDB, Tailwind CSS
-
 Design: Adobe Illustrator, Figma, Canva, Whimsical
-
 Tools: Git/GitHub, Docker, VS Code, Clipchamp
 
 🌱 Currently Exploring
