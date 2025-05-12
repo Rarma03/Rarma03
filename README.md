@@ -9,10 +9,10 @@ I’m Raj Verma, a passionate developer with a strong foundation in competitive 
 
 🔧 Technical Skills
 
-Languages: C++, Python
-Web Technologies: HTML, CSS, JavaScript, React, Node.js, MongoDB, Tailwind CSS
-Design: Adobe Illustrator, Figma, Canva, Whimsical
-Tools: Git/GitHub, Docker, VS Code, Clipchamp
+- Languages: C++, Python
+- Web Technologies: HTML, CSS, JavaScript, React, Node.js, MongoDB, Tailwind CSS
+- Design: Adobe Illustrator, Figma, Canva, Whimsical
+- Tools: Git/GitHub, Docker, VS Code, Clipchamp
 
 🌱 Currently Exploring
 
