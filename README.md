@@ -1,5 +1,32 @@
 # 💫 About Me:
-👋 Hi, I’m Raj Verma<br>👀 I’m interested in Graphic Designing, Competitive Coding and Web-Dev<br>🌱 I’m currently Exploring Back-end Web-Dev<br>💞️ I’m looking to collaborate on every opportunity I get<br>📫 Reaching me is to easy just contact me via email - 710vermaraj@gmail.com
+I’m Raj Verma, a passionate developer with a strong foundation in competitive programming and web development. Currently pursuing a Bachelor's in Information Technology, I am continually refining my skills in back-end development while keeping a keen interest in full-stack and design. With experience across various tech stacks like MERN, C++, Node.js, and React, I strive to build impactful and user-centric solutions.
+
+🌐 What I Do
+
+I specialize in full-stack web development and have developed a variety of projects ranging from academic resource portals to automated resume builders.
+
+I am skilled in data structures and algorithms and have solved over 1000+ coding problems across platforms like Leetcode, Codeforces, and Codechef.
+
+I also design intuitive and aesthetic user interfaces, bringing user-friendly experiences to life using tools like Figma, Canva, and Illustrator.
+
+🔧 Technical Skills
+
+Languages: C++, Python
+
+Web Technologies: HTML, CSS, JavaScript, React, Node.js, MongoDB, Tailwind CSS
+
+Design: Adobe Illustrator, Figma, Canva, Whimsical
+
+Tools: Git/GitHub, Docker, VS Code, Clipchamp
+
+🌱 Currently Exploring
+
+Diving deeper into back-end web development and cloud services for scalable applications.
+
+Exploring advanced algorithms and system design to build optimized, high-performance systems.
+
+💡 Collaborations
+I am always open to new challenges and opportunities to collaborate, whether it’s through open-source projects or tech-driven initiatives. Feel free to reach out if you’re interested in collaborating on exciting projects.
 
 
 ## 🌐 Socials:
