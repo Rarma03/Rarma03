@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Raj Verma, a passionate developer with a strong foundation in competitive programming and web development. Currently pursuing a Bachelor's in Information Technology, I am continually refining my skills in back-end development while keeping a keen interest in full-stack and design. With experience across various tech stacks like MERN, C++, Node.js, and React, I strive to build impactful and user-centric solutions.
+I’m Raj Verma, a passionate developer with a strong foundation in competitive programming and web development. I am continually refining my skills in back-end development while keeping a keen interest in full-stack and design. With experience across various tech stacks like MERN, C++, Node.js, and React, I strive to build impactful and user-centric solutions.
 
 🌐 What I Do
 
@@ -22,8 +22,8 @@ Tools: Git/GitHub, Docker, VS Code, Clipchamp
 🌱 Currently Exploring
 
 Diving deeper into back-end web development and cloud services for scalable applications.
-
 Exploring advanced algorithms and system design to build optimized, high-performance systems.
+Web Backend with Django
 
 💡 Collaborations
 I am always open to new challenges and opportunities to collaborate, whether it’s through open-source projects or tech-driven initiatives. Feel free to reach out if you’re interested in collaborating on exciting projects.
